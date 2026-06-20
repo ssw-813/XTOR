@@ -25,4 +25,3 @@ Asegúrate de tener guardado el archivo principal del servidor como `xtor.py`.
 Este proyecto utiliza el micro-framework **Flask**. Puedes instalarlo abriendo una consola de PowerShell y ejecutando:
 ```powershell
 pip install flask
-Después, para ejecutarlo ejecuta el xtor.py y ve a la dirección que te indica.
